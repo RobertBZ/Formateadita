@@ -1,0 +1,7 @@
+C:\Users\Robert\Desktop\USIP\SecondC#2\SingletonExample\SingletonExample\bin\Debug\SingletonExample.exe.config
+C:\Users\Robert\Desktop\USIP\SecondC#2\SingletonExample\SingletonExample\bin\Debug\SingletonExample.exe
+C:\Users\Robert\Desktop\USIP\SecondC#2\SingletonExample\SingletonExample\bin\Debug\SingletonExample.pdb
+C:\Users\Robert\Desktop\USIP\SecondC#2\SingletonExample\SingletonExample\obj\Debug\SingletonExample.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\SecondC#2\SingletonExample\SingletonExample\obj\Debug\SingletonExample.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\SecondC#2\SingletonExample\SingletonExample\obj\Debug\SingletonExample.exe
+C:\Users\Robert\Desktop\USIP\SecondC#2\SingletonExample\SingletonExample\obj\Debug\SingletonExample.pdb

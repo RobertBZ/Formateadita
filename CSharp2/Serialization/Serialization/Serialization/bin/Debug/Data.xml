@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Gente><Persona Id="1">
+  <Nombre>Mario</Nombre>
+  <Apellido>Cordova</Apellido>
+  <Nacimiento>1997-09-23T00:00:00</Nacimiento>
+  <Celulares>
+    <Celular>68515915</Celular>
+    <Celular>71859304</Celular>
+  </Celulares>
+  Estudiante de Ingenieria de sistemas de la USIP
+</Persona>
+<Persona Id="2">
+  <Nombre>Carlos</Nombre>
+  <Apellido>Pammo</Apellido>
+  <Nacimiento>1986-03-12T00:00:00</Nacimiento>
+  <Celulares>
+    <Celular>70309082</Celular>
+    <Celular>75900300</Celular>
+  </Celulares>
+  docente de la USIP
+</Persona>
+</Gente>
+<Carreras><Carrera Id="1"><Nombre>Ing. Sistemas</Nombre></Carrera></Carreras></Datos>

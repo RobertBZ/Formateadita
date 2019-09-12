@@ -1,0 +1,7 @@
+C:\Users\Robert\Desktop\USIP\CSharp2\NumbersPr2\NumbersPr2\bin\Debug\NumbersPr2.exe.config
+C:\Users\Robert\Desktop\USIP\CSharp2\NumbersPr2\NumbersPr2\bin\Debug\NumbersPr2.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\NumbersPr2\NumbersPr2\bin\Debug\NumbersPr2.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\NumbersPr2\NumbersPr2\obj\Debug\NumbersPr2.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\NumbersPr2\NumbersPr2\obj\Debug\NumbersPr2.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\NumbersPr2\NumbersPr2\obj\Debug\NumbersPr2.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\NumbersPr2\NumbersPr2\obj\Debug\NumbersPr2.pdb

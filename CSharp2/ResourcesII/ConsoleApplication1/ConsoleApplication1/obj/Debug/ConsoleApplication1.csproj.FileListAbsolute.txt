@@ -1,0 +1,48 @@
+c:\users\pc4\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\pc4\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\pc4\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\pc4\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\pc4\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\pc4\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\pc4\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Estudiantes.txt
+c:\users\pc4\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Carreras.txt
+C:\Users\labo2\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\labo2\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\labo2\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\labo2\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\labo2\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\Resources\Text_Files\Carreras.txt
+C:\Users\labo2\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\Resources\Text_Files\Estudiantes.txt
+C:\Users\labo2\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\labo2\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\labo2\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\Model.dll
+C:\Users\labo2\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\Model.pdb
+C:\Users\labo2\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\Core.dll
+C:\Users\labo2\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\Core.pdb
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\Resources\Text_Files\Carreras.txt
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\Resources\Text_Files\Estudiantes.txt
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\Core.dll
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\Model.dll
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\Core.pdb
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\bin\Debug\Model.pdb
+C:\Development\Examples\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\bin\Debug\Resources\Text_Files\Carreras.txt
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\bin\Debug\Resources\Text_Files\Estudiantes.txt
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\bin\Debug\Core.dll
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\bin\Debug\Model.dll
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\bin\Debug\Core.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\bin\Debug\Model.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesII\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

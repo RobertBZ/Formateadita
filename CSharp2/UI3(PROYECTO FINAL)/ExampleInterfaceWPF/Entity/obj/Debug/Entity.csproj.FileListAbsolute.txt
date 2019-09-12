@@ -1,0 +1,7 @@
+C:\Users\Robert\Desktop\USIP\CSharp2\ExampleInterfaceWPF\Entity\bin\Debug\Entity.exe.config
+C:\Users\Robert\Desktop\USIP\CSharp2\ExampleInterfaceWPF\Entity\bin\Debug\Entity.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\ExampleInterfaceWPF\Entity\bin\Debug\Entity.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\ExampleInterfaceWPF\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\ExampleInterfaceWPF\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\ExampleInterfaceWPF\Entity\obj\Debug\Entity.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\ExampleInterfaceWPF\Entity\obj\Debug\Entity.pdb

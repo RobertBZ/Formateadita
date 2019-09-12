@@ -1,0 +1,13 @@
+c:\users\labo2\documents\visual studio 2015\Projects\Linq\Linq\bin\Debug\Linq.exe.config
+c:\users\labo2\documents\visual studio 2015\Projects\Linq\Linq\bin\Debug\Linq.exe
+c:\users\labo2\documents\visual studio 2015\Projects\Linq\Linq\bin\Debug\Linq.pdb
+c:\users\labo2\documents\visual studio 2015\Projects\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+c:\users\labo2\documents\visual studio 2015\Projects\Linq\Linq\obj\Debug\Linq.exe
+c:\users\labo2\documents\visual studio 2015\Projects\Linq\Linq\obj\Debug\Linq.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\Linq GroupJoin\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\Robert\Desktop\USIP\CSharp2\Linq GroupJoin\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\Linq GroupJoin\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\Linq GroupJoin\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Linq GroupJoin\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Linq GroupJoin\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\Linq GroupJoin\Linq\Linq\obj\Debug\Linq.pdb

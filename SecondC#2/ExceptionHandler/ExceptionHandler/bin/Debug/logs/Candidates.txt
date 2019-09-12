@@ -1,0 +1,27 @@
+2019-09-04 20:31:12,563 [1] ERROR - Intento de dividir por cero.
+2019-09-04 20:31:12,586 [1] ERROR -    en ExceptionHandler.Program.Main(String[] args) en C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler\ExceptionHandler\Program.cs:línea 36
+2019-09-04 20:31:16,397 [1] ERROR - El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+2019-09-04 20:31:16,398 [1] ERROR -    en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en ExceptionHandler.Program.Main(String[] args) en C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler\ExceptionHandler\Program.cs:línea 44
+2019-09-04 20:31:42,062 [1] ERROR - Intento de dividir por cero.
+2019-09-04 20:31:42,074 [1] ERROR -    en ExceptionHandler.Program.Main(String[] args) en C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler\ExceptionHandler\Program.cs:línea 36
+2019-09-04 20:31:43,593 [1] ERROR - El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+2019-09-04 20:31:43,595 [1] ERROR -    en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en ExceptionHandler.Program.Main(String[] args) en C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler\ExceptionHandler\Program.cs:línea 44
+2019-09-04 20:34:39,246 [1] ERROR - Intento de dividir por cero.
+2019-09-04 20:34:39,277 [1] ERROR -    en ExceptionHandler.Program.Main(String[] args) en C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler\ExceptionHandler\Program.cs:línea 36
+2019-09-04 20:34:41,309 [1] ERROR - El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+2019-09-04 20:34:41,311 [1] ERROR -    en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en ExceptionHandler.Program.Main(String[] args) en C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler\ExceptionHandler\Program.cs:línea 44
+2019-09-04 20:34:43,674 [1]  WARN - El numero 5040 no puede ser calculable
+2019-09-04 20:34:43,675 [1]  WARN -    en ExceptionHandler.Program.Main(String[] args) en C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler\ExceptionHandler\Program.cs:línea 57
+2019-09-04 20:39:17,732 [1] ERROR - Intento de dividir por cero.
+2019-09-04 20:39:17,744 [1] ERROR -    en ExceptionHandler.Program.Main(String[] args) en C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler\ExceptionHandler\Program.cs:línea 36
+2019-09-04 20:39:20,466 [1]  WARN - Dato introducido no es valido, por favor ingresa un numero entre 1 y 2
+2019-09-04 20:39:20,466 [1]  WARN -    en ExceptionHandler.Program.Main(String[] args) en C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler\ExceptionHandler\Program.cs:línea 29

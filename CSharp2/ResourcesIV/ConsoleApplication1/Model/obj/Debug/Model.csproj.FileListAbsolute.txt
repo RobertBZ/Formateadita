@@ -1,0 +1,11 @@
+C:\Users\labo2\Desktop\ConsoleApplication1\Model\bin\Debug\Model.dll
+C:\Users\labo2\Desktop\ConsoleApplication1\Model\bin\Debug\Model.pdb
+C:\Users\labo2\Desktop\ConsoleApplication1\Model\obj\Debug\Model.dll
+C:\Users\labo2\Desktop\ConsoleApplication1\Model\obj\Debug\Model.pdb
+C:\Users\labo2\Desktop\ConsoleApplication1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesIV\ConsoleApplication1\Model\bin\Debug\Model.dll
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesIV\ConsoleApplication1\Model\bin\Debug\Model.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesIV\ConsoleApplication1\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesIV\ConsoleApplication1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesIV\ConsoleApplication1\Model\obj\Debug\Model.dll
+C:\Users\Robert\Desktop\USIP\CSharp2\ResourcesIV\ConsoleApplication1\Model\obj\Debug\Model.pdb

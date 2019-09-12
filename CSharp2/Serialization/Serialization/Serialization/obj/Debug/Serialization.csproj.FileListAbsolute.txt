@@ -1,0 +1,13 @@
+c:\users\labo2\documents\visual studio 2015\Projects\Serialization\Serialization\bin\Debug\Serialization.exe.config
+c:\users\labo2\documents\visual studio 2015\Projects\Serialization\Serialization\bin\Debug\Serialization.exe
+c:\users\labo2\documents\visual studio 2015\Projects\Serialization\Serialization\bin\Debug\Serialization.pdb
+c:\users\labo2\documents\visual studio 2015\Projects\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+c:\users\labo2\documents\visual studio 2015\Projects\Serialization\Serialization\obj\Debug\Serialization.exe
+c:\users\labo2\documents\visual studio 2015\Projects\Serialization\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\Serialization\Serialization\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Robert\Desktop\USIP\CSharp2\Serialization\Serialization\Serialization\bin\Debug\Serialization.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\Serialization\Serialization\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\Serialization\Serialization\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Serialization\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Serialization\Serialization\Serialization\obj\Debug\Serialization.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\Serialization\Serialization\Serialization\obj\Debug\Serialization.pdb

@@ -1,0 +1,6 @@
+Tareas:
+Para la próxima clase tenemos tres tareas
+1. Listar los números primos entre 2 y N utilizando la división lo restas con paso por referencia
+2. Implementar el ejemplo de la anterior clase (RentACar) utilizando structs
+3. Implementar la lectura de múltiples archivos (carrera y estudiantes) utilizando genéricos y las 
+interfaces IEnumerable e IEnumerator (public class   RegistryPivot<T> : IEnumerator<T> where T: IModel, new())

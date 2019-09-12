@@ -1,0 +1,11 @@
+C:\Users\labo2\documents\visual studio 2015\Projects\Directory\Entity\bin\Debug\Entity.dll
+C:\Users\labo2\documents\visual studio 2015\Projects\Directory\Entity\bin\Debug\Entity.pdb
+C:\Users\labo2\documents\visual studio 2015\Projects\Directory\Entity\obj\Debug\Entity.dll
+C:\Users\labo2\documents\visual studio 2015\Projects\Directory\Entity\obj\Debug\Entity.pdb
+C:\Users\labo2\documents\visual studio 2015\Projects\Directory\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Directory\Entity\bin\Debug\Entity.dll
+C:\Users\Robert\Desktop\USIP\CSharp2\Directory\Entity\bin\Debug\Entity.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\Directory\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Directory\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Directory\Entity\obj\Debug\Entity.dll
+C:\Users\Robert\Desktop\USIP\CSharp2\Directory\Entity\obj\Debug\Entity.pdb

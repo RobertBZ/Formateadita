@@ -1,0 +1,6 @@
+﻿1/Juan Andres/Castillo/19/IS 
+2/Mario Aderly/Cordova/21/IS
+3/Rodrigo Ignacio/Vargas/19/IS
+4/Robert/Balderrama/20/IC
+5/Victoria/Orellana/21/IS
+6/Freddy/Gomez/20/IS

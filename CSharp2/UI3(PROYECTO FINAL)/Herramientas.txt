@@ -1,0 +1,17 @@
+Requerimientos (Usados)
+1.- Herencia
+2.- Encapsulamiento
+3.- Documentacion
+4.- Interfaz ==> XAML(Validacion)
+5.- Generics
+6.- Inserta datos "HardCode" en tiempo de ejecuccion
+
+Herramientas Usadas
+1.- "StreamReader" para leer los archivos de texto
+2.- "XDocument" y "XElement" para leer los archivos XML
+3.- "UserControl" para formulario dinamico
+
+Faltante
+1.- Realizar Editar en la tabla ..mientras estas en ejecucion
+2.- Realizar Eliminar en la tabla ..mientras estas en ejecucion
+3.- Realizar Insercion dinamica con los TexBox en las listas ..mientras estas en ejecucion

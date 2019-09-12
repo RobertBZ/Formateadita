@@ -1,0 +1,14 @@
+C:\Users\Andres\source\repos\Memoria_24_04_2019\Memoria_24_04_2019\bin\Debug\Memoria_24_04_2019.exe.config
+C:\Users\Andres\source\repos\Memoria_24_04_2019\Memoria_24_04_2019\bin\Debug\Memoria_24_04_2019.exe
+C:\Users\Andres\source\repos\Memoria_24_04_2019\Memoria_24_04_2019\bin\Debug\Memoria_24_04_2019.pdb
+C:\Users\Andres\source\repos\Memoria_24_04_2019\Memoria_24_04_2019\obj\Debug\Memoria_24_04_2019.csprojAssemblyReference.cache
+C:\Users\Andres\source\repos\Memoria_24_04_2019\Memoria_24_04_2019\obj\Debug\Memoria_24_04_2019.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Memoria_24_04_2019\Memoria_24_04_2019\obj\Debug\Memoria_24_04_2019.exe
+C:\Users\Andres\source\repos\Memoria_24_04_2019\Memoria_24_04_2019\obj\Debug\Memoria_24_04_2019.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\Memoria_24_04_2019\Memoria_24_04_2019\bin\Debug\Memoria_24_04_2019.exe.config
+C:\Users\Robert\Desktop\USIP\CSharp2\Memoria_24_04_2019\Memoria_24_04_2019\bin\Debug\Memoria_24_04_2019.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\Memoria_24_04_2019\Memoria_24_04_2019\bin\Debug\Memoria_24_04_2019.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\Memoria_24_04_2019\Memoria_24_04_2019\obj\Debug\Memoria_24_04_2019.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Memoria_24_04_2019\Memoria_24_04_2019\obj\Debug\Memoria_24_04_2019.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Memoria_24_04_2019\Memoria_24_04_2019\obj\Debug\Memoria_24_04_2019.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\Memoria_24_04_2019\Memoria_24_04_2019\obj\Debug\Memoria_24_04_2019.pdb

@@ -1,0 +1,7 @@
+C:\Users\Robert\Desktop\USIP\CSharp2\SerieFibonaci\SerieFibonaci\bin\Debug\SerieFibonaci.exe.config
+C:\Users\Robert\Desktop\USIP\CSharp2\SerieFibonaci\SerieFibonaci\bin\Debug\SerieFibonaci.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\SerieFibonaci\SerieFibonaci\bin\Debug\SerieFibonaci.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\SerieFibonaci\SerieFibonaci\obj\Debug\SerieFibonaci.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\SerieFibonaci\SerieFibonaci\obj\Debug\SerieFibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\SerieFibonaci\SerieFibonaci\obj\Debug\SerieFibonaci.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\SerieFibonaci\SerieFibonaci\obj\Debug\SerieFibonaci.pdb

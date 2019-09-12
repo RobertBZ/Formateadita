@@ -1,0 +1,7 @@
+C:\Users\Robert\Desktop\USIP\Iherent\Iherent\bin\Debug\Iherent.exe.config
+C:\Users\Robert\Desktop\USIP\Iherent\Iherent\bin\Debug\Iherent.exe
+C:\Users\Robert\Desktop\USIP\Iherent\Iherent\bin\Debug\Iherent.pdb
+C:\Users\Robert\Desktop\USIP\Iherent\Iherent\obj\Debug\Iherent.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\Iherent\Iherent\obj\Debug\Iherent.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\Iherent\Iherent\obj\Debug\Iherent.exe
+C:\Users\Robert\Desktop\USIP\Iherent\Iherent\obj\Debug\Iherent.pdb

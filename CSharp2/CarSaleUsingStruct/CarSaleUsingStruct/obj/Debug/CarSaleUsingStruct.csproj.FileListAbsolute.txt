@@ -1,0 +1,7 @@
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSaleUsingStruct\CarSaleUsingStruct\bin\Debug\CarSaleUsingStruct.exe.config
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSaleUsingStruct\CarSaleUsingStruct\bin\Debug\CarSaleUsingStruct.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSaleUsingStruct\CarSaleUsingStruct\bin\Debug\CarSaleUsingStruct.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSaleUsingStruct\CarSaleUsingStruct\obj\Debug\CarSaleUsingStruct.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSaleUsingStruct\CarSaleUsingStruct\obj\Debug\CarSaleUsingStruct.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSaleUsingStruct\CarSaleUsingStruct\obj\Debug\CarSaleUsingStruct.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSaleUsingStruct\CarSaleUsingStruct\obj\Debug\CarSaleUsingStruct.pdb

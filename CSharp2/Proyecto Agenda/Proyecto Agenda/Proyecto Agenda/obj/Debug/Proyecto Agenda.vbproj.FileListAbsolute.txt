@@ -1,0 +1,36 @@
+C:\Users\Iver\AppData\Local\Temporary Projects\Proyecto Agenda\bin\Debug\Proyecto Agenda.exe.config
+C:\Users\Iver\AppData\Local\Temporary Projects\Proyecto Agenda\obj\Debug\Proyecto_Agenda.Form1.resources
+C:\Users\Iver\AppData\Local\Temporary Projects\Proyecto Agenda\obj\Debug\Proyecto_Agenda.Resources.resources
+C:\Users\Iver\AppData\Local\Temporary Projects\Proyecto Agenda\obj\Debug\Proyecto Agenda.vbproj.GenerateResource.Cache
+C:\Users\Iver\AppData\Local\Temporary Projects\Proyecto Agenda\bin\Debug\Proyecto Agenda.exe
+C:\Users\Iver\AppData\Local\Temporary Projects\Proyecto Agenda\bin\Debug\Proyecto Agenda.pdb
+C:\Users\Iver\AppData\Local\Temporary Projects\Proyecto Agenda\bin\Debug\Proyecto Agenda.xml
+C:\Users\Iver\AppData\Local\Temporary Projects\Proyecto Agenda\obj\Debug\Proyecto Agenda.exe
+C:\Users\Iver\AppData\Local\Temporary Projects\Proyecto Agenda\obj\Debug\Proyecto Agenda.xml
+C:\Users\Iver\AppData\Local\Temporary Projects\Proyecto Agenda\obj\Debug\Proyecto Agenda.pdb
+D:\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\bin\Debug\Proyecto Agenda.exe.config
+D:\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto Agenda.exe
+D:\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto Agenda.xml
+D:\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto Agenda.pdb
+D:\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\bin\Debug\Proyecto Agenda.exe
+D:\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\bin\Debug\Proyecto Agenda.pdb
+D:\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\bin\Debug\Proyecto Agenda.xml
+D:\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto_Agenda.Form1.resources
+D:\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto_Agenda.Form2.resources
+D:\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto_Agenda.Form3.resources
+D:\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto_Agenda.Resources.resources
+D:\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto Agenda.vbproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\bin\Debug\Proyecto Agenda.exe.config
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\bin\Debug\Proyecto Agenda.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\bin\Debug\Proyecto Agenda.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\bin\Debug\Proyecto Agenda.xml
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto Agenda.vbprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto_Agenda.Form1.resources
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto_Agenda.Form2.resources
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto_Agenda.Form3.resources
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto_Agenda.Resources.resources
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto Agenda.vbproj.GenerateResource.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto Agenda.vbproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto Agenda.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto Agenda.xml
+C:\Users\Robert\Desktop\USIP\CSharp2\Proyecto Agenda\Proyecto Agenda\Proyecto Agenda\obj\Debug\Proyecto Agenda.pdb

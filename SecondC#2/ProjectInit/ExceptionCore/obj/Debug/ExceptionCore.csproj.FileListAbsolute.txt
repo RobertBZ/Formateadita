@@ -1,0 +1,9 @@
+C:\Users\Robert\Desktop\USIP\SecondC#2\ProjectInit\ExceptionCore\bin\Debug\ExceptionCore.dll
+C:\Users\Robert\Desktop\USIP\SecondC#2\ProjectInit\ExceptionCore\bin\Debug\ExceptionCore.pdb
+C:\Users\Robert\Desktop\USIP\SecondC#2\ProjectInit\ExceptionCore\bin\Debug\log4net.dll
+C:\Users\Robert\Desktop\USIP\SecondC#2\ProjectInit\ExceptionCore\bin\Debug\log4net.xml
+C:\Users\Robert\Desktop\USIP\SecondC#2\ProjectInit\ExceptionCore\obj\Debug\ExceptionCore.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\SecondC#2\ProjectInit\ExceptionCore\obj\Debug\ExceptionCore.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\SecondC#2\ProjectInit\ExceptionCore\obj\Debug\ExceptionCore.csproj.CopyComplete
+C:\Users\Robert\Desktop\USIP\SecondC#2\ProjectInit\ExceptionCore\obj\Debug\ExceptionCore.dll
+C:\Users\Robert\Desktop\USIP\SecondC#2\ProjectInit\ExceptionCore\obj\Debug\ExceptionCore.pdb

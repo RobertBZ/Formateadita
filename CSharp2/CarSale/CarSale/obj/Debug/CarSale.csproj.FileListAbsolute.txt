@@ -1,0 +1,13 @@
+c:\users\pc4\documents\visual studio 2015\Projects\CarSale\CarSale\bin\Debug\CarSale.exe.config
+c:\users\pc4\documents\visual studio 2015\Projects\CarSale\CarSale\obj\Debug\CarSale.csprojResolveAssemblyReference.cache
+c:\users\pc4\documents\visual studio 2015\Projects\CarSale\CarSale\bin\Debug\CarSale.exe
+c:\users\pc4\documents\visual studio 2015\Projects\CarSale\CarSale\bin\Debug\CarSale.pdb
+c:\users\pc4\documents\visual studio 2015\Projects\CarSale\CarSale\obj\Debug\CarSale.exe
+c:\users\pc4\documents\visual studio 2015\Projects\CarSale\CarSale\obj\Debug\CarSale.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSale\CarSale\bin\Debug\CarSale.exe.config
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSale\CarSale\bin\Debug\CarSale.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSale\CarSale\bin\Debug\CarSale.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSale\CarSale\obj\Debug\CarSale.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSale\CarSale\obj\Debug\CarSale.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSale\CarSale\obj\Debug\CarSale.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\CarSale\CarSale\obj\Debug\CarSale.pdb

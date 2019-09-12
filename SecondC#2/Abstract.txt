@@ -1,0 +1,6 @@
+	Sistemas individual
+ABSTRACT:		|	Interview (entrevista) ===> Firmado
+Introduccion 2.
+Problema.
+Propuesta.
+Limites.

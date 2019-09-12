@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Careers>
+  <Career id="1">
+    <Name>Ingenieria de Sistemas</Name>
+    <Code>IS</Code>
+  </Career>
+  <Career id="2">
+    <Name>Ingenieria Comercial</Name>
+    <Code>IC</Code>
+  </Career>
+  <Career id="3">
+    <Name>Derecho</Name>
+    <Code>DE</Code>
+  </Career>
+</Careers>

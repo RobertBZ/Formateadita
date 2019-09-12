@@ -1,0 +1,9 @@
+C:\Users\Robert\Desktop\USIP\CSharp2\GenericTexts\GenericTexts\obj\Debug\GenericTexts.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\GenericTexts\GenericTexts\obj\Debug\GenericTexts.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\GenericTexts\GenericTexts\bin\Debug\GenericTexts.exe.config
+C:\Users\Robert\Desktop\USIP\CSharp2\GenericTexts\GenericTexts\bin\Debug\GenericTexts.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\GenericTexts\GenericTexts\bin\Debug\GenericTexts.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\GenericTexts\GenericTexts\obj\Debug\GenericTexts.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\GenericTexts\GenericTexts\obj\Debug\GenericTexts.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\GenericTexts\GenericTexts\bin\Debug\Careers.txt
+C:\Users\Robert\Desktop\USIP\CSharp2\GenericTexts\GenericTexts\bin\Debug\Students.txt

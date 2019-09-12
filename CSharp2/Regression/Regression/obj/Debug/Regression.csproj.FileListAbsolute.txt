@@ -1,0 +1,6 @@
+c:\users\labo2\documents\visual studio 2015\Projects\Regression\Regression\bin\Debug\Regression.exe.config
+c:\users\labo2\documents\visual studio 2015\Projects\Regression\Regression\bin\Debug\Regression.exe
+c:\users\labo2\documents\visual studio 2015\Projects\Regression\Regression\bin\Debug\Regression.pdb
+c:\users\labo2\documents\visual studio 2015\Projects\Regression\Regression\obj\Debug\Regression.csprojResolveAssemblyReference.cache
+c:\users\labo2\documents\visual studio 2015\Projects\Regression\Regression\obj\Debug\Regression.exe
+c:\users\labo2\documents\visual studio 2015\Projects\Regression\Regression\obj\Debug\Regression.pdb

@@ -1,0 +1,6 @@
+C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler2\ExceptionHandler\ExceptionCore\bin\Debug\ExceptionCore.dll
+C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler2\ExceptionHandler\ExceptionCore\bin\Debug\ExceptionCore.pdb
+C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler2\ExceptionHandler\ExceptionCore\obj\Debug\ExceptionCore.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler2\ExceptionHandler\ExceptionCore\obj\Debug\ExceptionCore.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler2\ExceptionHandler\ExceptionCore\obj\Debug\ExceptionCore.dll
+C:\Users\Robert\Desktop\USIP\SecondC#2\ExceptionHandler2\ExceptionHandler\ExceptionCore\obj\Debug\ExceptionCore.pdb

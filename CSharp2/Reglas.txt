@@ -1,0 +1,5 @@
+Reglas del Juego
+
+1) Nombres Descriptivos
+
+Patron de diseño: Strategy

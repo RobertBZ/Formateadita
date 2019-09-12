@@ -1,0 +1,19 @@
+﻿CONTACTO
+1/Jose/Perez/20/1
+2/Maria/Gonzales/25/2
+3/Pablo/Mendez/19/1
+4/Laura/Ramirez/21/3
+===================
+UNIVERSIDAD
+1/USIP/Av. Villazon
+2/San Simon/Av. Oquendo
+3/Catolica/Av. America
+===================
+CARRERAS
+1/Ing. Sistemas/1
+2/Ing. Sistemas/2
+3/Ing. Sistemas/3
+4/Ing. Comercial/1
+5/Ing. Civil/2
+6/Medicina/2
+===================

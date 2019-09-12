@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Persona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="1">
+  <Nombre>Mario</Nombre>
+  <Apellido>Cordova</Apellido>
+  <Nacimiento>1997-09-23T00:00:00</Nacimiento>
+  <Celulares>
+    <Celular>68515915</Celular>
+    <Celular>71859304</Celular>
+  </Celulares>
+  Estudiante de Ingenieria de sistemas de la USIP
+</Persona>

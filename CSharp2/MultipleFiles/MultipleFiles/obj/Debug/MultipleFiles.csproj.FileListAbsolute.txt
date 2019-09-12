@@ -1,0 +1,7 @@
+C:\Users\Robert\Desktop\USIP\CSharp2\MultipleFiles\MultipleFiles\obj\Debug\MultipleFiles.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\MultipleFiles\MultipleFiles\obj\Debug\MultipleFiles.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\USIP\CSharp2\MultipleFiles\MultipleFiles\bin\Debug\MultipleFiles.exe.config
+C:\Users\Robert\Desktop\USIP\CSharp2\MultipleFiles\MultipleFiles\bin\Debug\MultipleFiles.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\MultipleFiles\MultipleFiles\bin\Debug\MultipleFiles.pdb
+C:\Users\Robert\Desktop\USIP\CSharp2\MultipleFiles\MultipleFiles\obj\Debug\MultipleFiles.exe
+C:\Users\Robert\Desktop\USIP\CSharp2\MultipleFiles\MultipleFiles\obj\Debug\MultipleFiles.pdb

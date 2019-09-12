@@ -1,0 +1,59 @@
+﻿<Window x:Class="ExampleInterfaceWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExampleInterfaceWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            
+            <Button x:Name="btnCreateStudent" Grid.Row="0" Grid.Column="0" Content="Crear Estudiante" Background="#FF6D88D1" Click="BtnCreateStudent_Click"></Button>
+            <Button x:Name="btnCreateCareer" Grid.Row="0" Grid.Column="1" Content="Crear Carrera" Background="#FF6D88D1" Click="BtnCreateCareer_Click"></Button>
+            <Button x:Name="btnCreateUniversity" Grid.Row="0" Grid.Column="2" Content="Crear Docente" Background="#FF6D88D1" Click="BtnCreateUniversity_Click"></Button>
+            <Menu Grid.Row="0" Grid.Column="3" Background="#FF94AEF5"></Menu>
+            <Button x:Name="btnCloseProgram" Grid.Row="0" Grid.Column="4" Content="Cerrar" Background="#FF6D88D1" Click="BtnCloseProgram_Click"></Button>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="1" Grid.Column="0" Content="Tipo de Archivo :" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <ComboBox x:Name="CbDataType" Grid.Row="1" Grid.Column="1" Margin="20" Height="30" VerticalAlignment="Center">
+                <ComboBoxItem Content="XML" />
+                <ComboBoxItem Content="TXT" />
+            </ComboBox>
+            <Label Grid.Row="1" Grid.Column="2" Content="Modelo :" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <ComboBox x:Name="CbEntity" Grid.Row="1" Grid.Column="3" Margin="20" Height="30" VerticalAlignment="Center">
+                <ComboBoxItem Content="Estudiante" />
+                <ComboBoxItem Content="Carrera" />
+                <ComboBoxItem Content="Profesor" />
+            </ComboBox>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Button x:Name="btnLoad" Content="Cargar Datos" Height="40" Width="350" HorizontalAlignment="Center" VerticalAlignment="Center" Click="BtnLoad_Click"/>
+        </Grid>
+        <Grid Grid.Row="3">
+            <DataGrid x:Name="DgTableData" Grid.Row="1" HorizontalAlignment="Center" Height="200" VerticalAlignment="Center" Width="500" AutoGenerateColumns="True"
+                      DataContext="{Binding}" ItemsSource="{Binding}">
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Window>
